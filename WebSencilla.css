@@ -1,0 +1,58 @@
+body{
+  background-color: #78bbcb;
+  font-family: "Homer Simpson", cursive;
+}
+.all{
+  display: flex;
+  align-items: initial;
+  justify-content: center;
+  margin-left: 100px;
+}
+.columna {
+    width:33%;
+    float:left;
+    margin: 5x;
+    
+  }
+
+
+  
+  @media (max-width: 500px) {
+    
+    .columna {
+      width:auto;
+      float:none;
+    }
+    
+  }
+
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #78bbcb ;
+    float: left;
+
+  }
+  div.gallery img{
+    width: 300;
+    height: 250;
+  }
+  div.gallery:hover {
+    border: 1px solid #0085a7;
+  }
+  
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  .video{
+    width: 300;
+    height: 250;
+  }
+
+  .jesus {
+    margin-top: 20px;
+    position: relative;
+    margin-left: 50px;
+  }
