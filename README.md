@@ -1,1 +1,113 @@
-# laboratorio-3-infracom
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="WebSencilla.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="all">
+        <div class="columna">
+            <h1>Federico Marroquin</h1>
+            <ul>
+                <li>f.marroquin10@uniandes.edu.co</li>
+                <li>Ingeniería de sistemas y computación</li>
+                <li>Semestre: 7</li>
+            </ul>
+            <div class="gallery">
+                <a target="_blank" href="imagenes/07a5a66f516549e144fd8cb4ee443908.jpg">
+                    <img src="imagenes/07a5a66f516549e144fd8cb4ee443908.jpg" alt="Forest">
+                </a>
+                <div class="desc">Universidad de Los Andes.</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="imagenes/Amazon-Web-Service-.png">
+                    <img src="imagenes/Amazon-Web-Service-.png" alt="Forest">
+                </a>
+                <div class="desc">Amazon Web Services.</div>
+            </div>
+            <div class="gallery">
+                <video controls class="video" loop autoplay>
+                    <source src="videos/UBUNTU DESDE CERO 1 ¿Que es Ubuntu.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <div class="desc">¿Qué es Ubuntu?</div>
+            </div>
+            <div class="jesus">
+                <img src="imagenes/35eRLsx.gif" alt="">
+            </div>
+        </div>
+        <div class="columna">
+            <h1>Juan Jose Silva</h1>
+            <ul>
+                <li>jj.silva@uniandes.edu.co</li>
+                <li>Ingeniería de sistemas y computación</li>
+                <li>Semestre: 7</li>
+            </ul>
+            <div class="gallery">
+                <a target="_blank" href="imagenes/Tokyo-2.jpg">
+                    <img src="imagenes/Tokyo-2.jpg" alt="Forest">
+                </a>
+                <div class="desc">Ciudad de Tokyo.</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="imagenes/iss.jpg">
+                    <img src="imagenes/iss.jpg" alt="Forest">
+                </a>
+                <div class="desc">Estación espacial internacional.</div>
+            </div>
+            <div class="gallery">
+                <video controls class="video" loop autoplay>
+                    <source src="videos/Que es streaming.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <div class="desc"> ¿Qué es streaming?</div>
+            </div>
+            <div class="gallery">
+                <video controls class="video" loop autoplay>
+                    <source src="videos/QUE ES MICROSOFT AZURE.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <div class="desc">¿Qué es Microsoft Azure?</div>
+            </div>
+        </div>
+        <div class="columna">
+            <h1>Felipe velasquez</h1>
+            <ul>
+                <li>f.velasquez@uniandes.edu.co</li>
+                <li>Ingeniería de sistemas y computación</li>
+                <li>Semestre: 7</li>
+            </ul>
+            <div class="gallery">
+                <a target="_blank" href="imagenes/ms-azure.jpg">
+                    <img src="imagenes/ms-azure.jpg" alt="Forest">
+                </a>
+                <div class="desc">Microsoft Azure.</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="imagenes/teoria-sobre-el-fin-del-universo-materia-negra.jpg">
+                    <img src="imagenes/teoria-sobre-el-fin-del-universo-materia-negra.jpg" alt="Forest">
+                </a>
+                <div class="desc">Algún lugar del universo.</div>
+            </div>
+            <div class="gallery">
+                <video class="video" controls loop autoplay>
+                    <source src="videos/Qué es la informática en la nube con Amazon Web Services (español).mp4"
+                        type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <div class="desc">¿Qué es Amazon Web Services?</div>
+            </div>
+            <div class="jesus">
+                <img src="imagenes/35eRLsx.gif" alt="">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
